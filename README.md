@@ -1,4 +1,4 @@
-**Math Microservice API**
+**Math Microservice API** by Rados Alessia-Elena
 
 A production-ready microservice that provides mathematical calculation APIs with persistent storage, interactive documentation, and comprehensive monitoring capabilities.
 
@@ -103,6 +103,7 @@ Semantic Versioning: API versioning support
 Input validation and sanitization
 Error message sanitization
 SQL injection prevention
+
 
 
 
