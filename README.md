@@ -3,7 +3,9 @@
 A production-ready microservice that provides mathematical calculation APIs with persistent storage, interactive documentation, and comprehensive monitoring capabilities.
 
 Features:
+
 Mathematical Operations: Power, Fibonacci, and Factorial calculations
+
 RESTful API: Clean, well-documented REST endpoints
 Interactive Documentation: Swagger UI for easy API exploration
 Data Persistence: SQLite database for storing all calculations
@@ -90,4 +92,5 @@ Semantic Versioning: API versioning support
 Input validation and sanitization
 Error message sanitization
 SQL injection prevention
+
 
