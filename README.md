@@ -57,10 +57,12 @@ bashpython main.py
 The service will start on http://localhost:5000
 
 **API Documentation**
+
 Interactive Documentation
 Visit http://localhost:5000/ to access the Swagger UI with interactive API documentation.
 
 **Data Validation & Limits**
+
 Input Constraints
 
 Power: Base and exponent ≤ 10,000 (absolute value)
@@ -88,3 +90,4 @@ Semantic Versioning: API versioning support
 Input validation and sanitization
 Error message sanitization
 SQL injection prevention
+
