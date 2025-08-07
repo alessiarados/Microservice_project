@@ -7,13 +7,21 @@ Features:
 Mathematical Operations: Power, Fibonacci, and Factorial calculations
 
 RESTful API: Clean, well-documented REST endpoints
+
 Interactive Documentation: Swagger UI for easy API exploration
+
 Data Persistence: SQLite database for storing all calculations
+
 Data Validation: Pydantic models for robust input validation
+
 Performance Monitoring: Execution time tracking for all operations
+
 Error Handling: Comprehensive error responses with proper HTTP status codes
+
 Calculation History: View and analyze previous calculations
+
 Usage Statistics: API usage metrics and analytics
+
 Production Ready: Following microservices best practices
 
 **Architecture**
@@ -30,8 +38,11 @@ app/
 **Key Components**
 
 Models: Pydantic models ensure type safety and validation
+
 Views: Flask-RESTX resources with automatic OpenAPI documentation
+
 Controllers: Pure business logic separated from web layer
+
 Database: SQLite with proper connection management and error handling
 
 **Requirements**
@@ -92,5 +103,6 @@ Semantic Versioning: API versioning support
 Input validation and sanitization
 Error message sanitization
 SQL injection prevention
+
 
 
